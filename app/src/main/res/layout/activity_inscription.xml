@@ -53,4 +53,20 @@
             android:id="@+id/vaporisation"/>
 
     </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/loadingPanel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:background="@android:color/black"
+        android:alpha="0.5">
+
+        <ProgressBar
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:indeterminate="true" />
+
+    </RelativeLayout>
+
 </RelativeLayout>

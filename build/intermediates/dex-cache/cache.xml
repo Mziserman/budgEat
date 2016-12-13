@@ -21,12 +21,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/thomas/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.2/80004060cc6f71a027b81e89ef4d74628f824f/jackson-core-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0080004060cc6f71a027b81e89ef4d74628f824f">
+        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.8.2_6de878c02f2336a597de8a9f677deea6d3c2d765/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
         <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_b30a7b2a261991f7ff11224660a2e4705bc00846/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_675f04034a9cb85823fe2fe1277748369d6c4102/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -39,12 +57,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_4a0659b213c79834ea1651d5af434c142d66585a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/thomas/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
         <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_035da59813bf78e000f97f4203542dcb4e5e7851/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.2/1f12816593c1422be957471c98a80bfbace60fa2/jackson-databind-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f12816593c1422be957471c98a80bfbace60fa2">
+        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.8.2_bd0e29c18015207cccf60e3696a937843e33f415/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,6 +102,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f82152f38dd1339fc276e8c1dc179f109af48912/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a7826b939fd4e2f62d51f2a825263db7d3a32700">
+        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_978cda8e6af0d57957820d45ccd8f0b812fafcc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -81,123 +135,6 @@
         revision="25.0.1"
         sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
         <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_9d2c9d73ab4e2fe8ee218a0ad3a205930a59026e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_b6960ab40676b4e97c4e3362a04dfb41969620f9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
-        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_8387284e7ea7d2f94684db29980168b83b404e5c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.amitshekhar.android/android-networking/0.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="2181055be8a630f727d41d4dc15adfad283474bb">
-        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.amitshekhar.android-android-networking-0.3.0_3dc4314fcf81648a8353249002dd379a34be61de/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_fdb70f396bcc65896ce57f39585ab310a93e08e3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="ba68231ad3381ca6c283ce89ee1c1a575b1ad777">
-        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_40d0bd7eeee8f520dab3ba9ee03b710ef4036b2b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_db5c1097df3f4dfca7497820509cc3224b448582/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_8e1856aaff7540c70c82d48a02907aac94ab475c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/thomas/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.2/80004060cc6f71a027b81e89ef4d74628f824f/jackson-core-2.8.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="0080004060cc6f71a027b81e89ef4d74628f824f">
-        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.8.2_6de878c02f2336a597de8a9f677deea6d3c2d765/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_675f04034a9cb85823fe2fe1277748369d6c4102/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_4a0659b213c79834ea1651d5af434c142d66585a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/thomas/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.2/1f12816593c1422be957471c98a80bfbace60fa2/jackson-databind-2.8.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="1f12816593c1422be957471c98a80bfbace60fa2">
-        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.8.2_bd0e29c18015207cccf60e3696a937843e33f415/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f82152f38dd1339fc276e8c1dc179f109af48912/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="ccddef87d364cf2495fc4980dad8ab1c2639e21f">
-        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_978cda8e6af0d57957820d45ccd8f0b812fafcc9/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -228,6 +165,51 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_b6960ab40676b4e97c4e3362a04dfb41969620f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_8387284e7ea7d2f94684db29980168b83b404e5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.amitshekhar.android/android-networking/0.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2181055be8a630f727d41d4dc15adfad283474bb">
+        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.amitshekhar.android-android-networking-0.3.0_3dc4314fcf81648a8353249002dd379a34be61de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dfd487201946d030959572d3dd074663f50cab9c">
+        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_40d0bd7eeee8f520dab3ba9ee03b710ef4036b2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_fdb70f396bcc65896ce57f39585ab310a93e08e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -252,6 +234,24 @@
         revision="25.0.1"
         sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
         <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_1e3f7a1886b07a682eb384e34e3100c26c16136b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_db5c1097df3f4dfca7497820509cc3224b448582/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thomas/Bureau/android/budgEat/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/thomas/Bureau/android/budgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_8e1856aaff7540c70c82d48a02907aac94ab475c/classes.dex" />
     </item>
 
 </items>
