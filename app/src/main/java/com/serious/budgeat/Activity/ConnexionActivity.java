@@ -1,4 +1,4 @@
-package com.serious.budgeat.Activity.activities.activities;
+package com.serious.budgeat.Activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -11,5 +11,6 @@ public class ConnexionActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_connexion);
+
     }
 }

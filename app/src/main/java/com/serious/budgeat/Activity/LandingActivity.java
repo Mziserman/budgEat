@@ -1,4 +1,4 @@
-package com.serious.budgeat.Activity.activities.activities;
+package com.serious.budgeat.Activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
