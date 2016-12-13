@@ -40,7 +40,7 @@ public class InscriptionActivity extends AppCompatActivity {
         findViewById(R.id.loadingPanel).setVisibility(View.GONE);
         // ####
 
-        
+
       /*  AndroidNetworking.get("https://budgeat.stan.sh/schools/")
                 .setTag("test")
                 .setPriority(Priority.LOW)
