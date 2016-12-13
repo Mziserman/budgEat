@@ -64,7 +64,7 @@ public class InscriptionActivity extends AppCompatActivity {
     }
 
     @OnClick(R.id.vaporisation)
-    void inscription(View view) {
+    void inscription() {
 //       ##### Temporaire
         Intent intent = new Intent(InscriptionActivity.this, MainActivity.class);
         startActivity(intent);

@@ -3,6 +3,8 @@ package com.serious.budgeat.Activity;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
+import android.view.View;
 import android.widget.TextView;
 
 import com.androidnetworking.AndroidNetworking;
@@ -15,6 +17,7 @@ import com.serious.budgeat.R;
 import org.json.JSONObject;
 
 import butterknife.ButterKnife;
+import butterknife.OnClick;
 
 public class ConnexionActivity extends AppCompatActivity {
 
@@ -23,9 +26,13 @@ public class ConnexionActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_connexion);
         ButterKnife.bind(this);
-        AndroidNetworking.initialize(getApplicationContext());
-        AndroidNetworking.setParserFactory(new JsonParserFactory());
+        /*AndroidNetworking.initialize(getApplicationContext());
+        AndroidNetworking.setParserFactory(new JsonParserFactory());*/
 
+    }
+
+    @OnClick(R.id.laucnchConnexion)
+    void connexion(){
         TextView email = (TextView)findViewById(R.id.email);
         TextView pass = (TextView)findViewById(R.id.password);
 
