@@ -7,14 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d952037-0af7-4373-9b28-346e40f7d311" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/ConnexionActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/ConnexionActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/InscriptionActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/InscriptionActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_connexion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_connexion.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/OrderActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_order.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
     </list>
     <ignored path="budgEat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,26 +45,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="InscriptionActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/InscriptionActivity.java">
+      <file leaf-file-name="activity_order.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_order.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="662">
-              <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+            <state relative-caret-position="510">
+              <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1095#1113#0" expanded="true" />
+                <element signature="e#1300#1319#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConnexionActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/ConnexionActivity.java">
+      <file leaf-file-name="activity_landing.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_landing.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="146">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/OrderActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -74,8 +87,8 @@
       <file leaf-file-name="LandingActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/LandingActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,9 +102,21 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
+            <state relative-caret-position="540">
               <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1838,6 +1863,8 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_connexion.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/InscriptionActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/ConnexionActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_order.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/OrderActivity.java" />
       </list>
     </option>
   </component>
@@ -1986,10 +2013,10 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1999,6 +2026,7 @@
   </component>
   <component name="RecentsManager">
     <key name="android.template.packageName">
+      <recent name="com.serious.budgeat.Activity" />
       <recent name="com.serious.budgeat.Activity.activities" />
       <recent name="layout" />
     </key>
@@ -2330,7 +2358,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32916668" sideWeight="0.49791667" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.49791667" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -2356,6 +2384,47 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/InscriptionActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/ConnexionActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/LandingActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_connexion.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/InscriptionActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2445,11 +2514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2457,11 +2521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2510,21 +2569,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Lists/SchoolList.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Reseau/Reseau.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Model/School.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Reseau/Reseau.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Model/School.java" />
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2541,25 +2587,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/JsonFactory/JacksonRequestBodyParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2567,11 +2598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2600,17 +2626,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_landing.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_inscription.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -2627,16 +2642,47 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
+        <state relative-caret-position="540">
           <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/LandingActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_landing.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/ConnexionActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -2653,13 +2699,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/ConnexionActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_order.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        <state relative-caret-position="510">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1095#1113#0" expanded="true" />
+            <element signature="e#1300#1319#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/serious/budgeat/Activity/OrderActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
