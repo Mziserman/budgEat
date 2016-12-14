@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jackson-android-networking-0.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.amitshekhar.android/jackson-android-networking/0.3.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.amitshekhar.android/jackson-android-networking/0.3.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amitshekhar.android/jackson-android-networking/0.3.0/e97dc14f160de2dd60098210372c09907f5d20b1/jackson-android-networking-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

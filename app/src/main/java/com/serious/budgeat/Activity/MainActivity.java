@@ -5,6 +5,7 @@ import android.os.Bundle;
 
 import com.serious.budgeat.R;
 
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -12,4 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+
+
 }
