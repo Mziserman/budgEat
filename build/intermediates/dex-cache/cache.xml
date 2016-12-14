@@ -57,15 +57,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
-        <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_fc88d419605b28cd947258abd2d2fab5331687b8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
@@ -75,12 +66,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_fc88d419605b28cd947258abd2d2fab5331687b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
         <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_ff32be72742e3a183f2a40319b4eeb997b6c962b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_47b432290756a59f697eb25ee79f19adcc26ec38/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -102,15 +111,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
-        <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_47b432290756a59f697eb25ee79f19adcc26ec38/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -129,21 +129,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="a48dc0b148059764d32500be558702d5ff932058">
-        <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_cc02649959de572456d0410fb31a476ab3f23a55/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
         <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_c22d4cb99b83bd3a2fe5d3adcc21e10d10e3a14f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_cc02649959de572456d0410fb31a476ab3f23a55/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -322,7 +322,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="3cb0e356935c05601b53ee24c6657f4ad2abd2dc">
+        sha1="7ff24df659e0097680bdec003ead05f0c7030f18">
         <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4e6db81eb4df2264712f8d90ee5bd2841889a810/classes.dex" />
     </item>
     <item
@@ -349,7 +349,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="e88f1383b4de26330db1bc6c4158a9fcf8c02dad">
+        sha1="a606451f641f9486078e75ab2b8042968c7a2169">
         <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5a3a288a075feaccea3d2ef0aba08684458336d/classes.dex" />
     </item>
     <item
@@ -534,21 +534,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_c0cde48062f180475fd8a796d97d93bcb469d3ff/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
         <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_fb634b58766c739bc372898178fe1ca4ba3596e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_c0cde48062f180475fd8a796d97d93bcb469d3ff/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -579,15 +579,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
-        <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_22f6410bb8fd5939060f05623528d1b9146a8bd5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/ziserman/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
         jumboMode="true"
         optimize="true"
@@ -597,12 +588,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jar="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
-        <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_333d522e9b4432dc7427f529f44809fa140dd76b/classes.dex" />
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_22f6410bb8fd5939060f05623528d1b9146a8bd5/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -612,6 +603,15 @@
         revision="25.0.1"
         sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
         <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_e4aa86041760b7d95176c223f99d133ea6260967/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/ziserman/AndroidStudioProjects/BudgEat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_333d522e9b4432dc7427f529f44809fa140dd76b/classes.dex" />
     </item>
     <item
         is-multidex="true"

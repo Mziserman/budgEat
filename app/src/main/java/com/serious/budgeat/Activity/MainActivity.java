@@ -24,19 +24,13 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        Log.d("aaa", "ooo");
-
         TagManager tagManager = TagManager.getInstance(this);
 
         PendingResult<ContainerHolder> pending =
                 tagManager.loadContainerPreferNonDefault(CONTAINER_ID,
                         R.raw.gtm_pf85db3);
 
-        // The onResult method will be called as soon as one of the following happens:
-//     1. a saved container is loaded
-//     2. if there is no saved container, a network container is loaded
-//     3. the 2-second timeout occurs
+
         pending.setResultCallback(new ResultCallback<ContainerHolder>() {
             @Override
             public void onResult(ContainerHolder containerHolder) {
@@ -46,24 +40,25 @@ public class MainActivity extends AppCompatActivity {
                 if (!containerHolder.getStatus().isSuccess()) {
                     Log.e("CuteAnimals", "failure loading container");
                     displayErrorToUser(R.string.load_error);
-                    return;
                 }
-
-
-
-                //ContainerLoadedCallback.registerCallbacksForContainer(container);
-                //containerHolder.setContainerAvailableListener(new ContainerLoadedCallback());
-                //startMainActivity();
-
-
-
-
-
             }
         }, TIMEOUT_FOR_CONTAINER_OPEN_MILLISECONDS, TimeUnit.MILLISECONDS);
 
-        Utils.pushOpenScreenEvent(this, screenName);
 
+        setContentView(R.layout.activity_main);
+
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        Utils.pushOpenScreenEvent(this, "MainScreen");
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        Utils.pushCloseScreenEvent(this, "MainScreen");
     }
 
     private void displayErrorToUser(int stringKey) {
